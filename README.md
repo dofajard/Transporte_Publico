@@ -153,15 +153,8 @@ Al ejecutar la aplicación, se presenta un menú interactivo con 12 opciones num
 | k | Recursos Disponibles | Inventario de buses/conductores sin asignar |
 | l | Salir del Sistema | Cierre controlado de la aplicación |
 
-### 3. Proceso de Venta de Boletos (Opción g)
-1. Selección de ruta con validación de existencia
-2. Verificación de asignación de bus y conductor
-3. Control de capacidad disponible
-4. Selección de pasajero registrado
-5. Prevención de duplicidad de boletos
-6. Cálculo automático de tarifa
-7. Confirmación y registro de la transacción
-
+### 3. Ejecución basada en la opción
+La opción ingresada por consola ejecuta la función que abarca, incluyendo las validaciones pertinentes en la interacción con el usuario
 
 ## Validaciones Implementadas
 
